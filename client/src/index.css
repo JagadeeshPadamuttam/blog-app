@@ -1,0 +1,14 @@
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+  
+  /* background-image:" https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg?cs=srgb&dl=pexels-pixabay-268533.jpg&fm=jpg" ;
+   */
+   
+}
+body{
+  font-family:"roboto",sans-serif;
+ 
+  /* background-image:url("https://as2.ftcdn.net/v2/jpg/06/38/53/91/1000_F_638539109_HFIZtIjieUXN2Ot0y9HE7w8JYqSxaOXh.jpg") */
+}
