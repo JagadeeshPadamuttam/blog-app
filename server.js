@@ -44,5 +44,5 @@ app.use("/api/v1/blog",blogRoutes);
 const PORT=process.env.PORT || 8080;
 
 app.listen(PORT,(req,res)=>{
-  console.log(`server running on port ${PORT}`.bgCyan.white);
+  // console.log(`server running on port ${PORT}`.bgCyan.white);
 })
