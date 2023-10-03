@@ -24,9 +24,9 @@ const app=express();
 
 //middleware
 app.use(cors({
-  origin:["https://blog-app-apz1.onrender.com"],
-  methods:["POST","GET"],
-  credentials:true
+  // origin:["https://blog-app-apz1.onrender.com"],
+  // methods:["POST","GET"],
+  // credentials:true
   }));
 app.use(express.json())
 app.use(morgan('dev'))
