@@ -24,7 +24,7 @@ const app=express();
 
 //middleware
 app.use(cors({
-  origin:["https://mern-blog-rr8b.onrender.com"],
+  origin:["https://blog-app-apz1.onrender.com"],
   methods:["POST","GET"],
   credentials:true
   }));
